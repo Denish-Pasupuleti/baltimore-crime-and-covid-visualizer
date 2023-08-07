@@ -1,5 +1,7 @@
 # How to setup Flask and React:
 
+Collaboration between Denish Pasupuleti, Justin Feng, John Veeres, Joey Loeb
+
 To setup Flask and virtual environment:
 
 ### `npm run init-venv`
